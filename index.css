@@ -1,0 +1,15 @@
+@charset "UTF-8";
+*{
+  margin:0;
+  padding: 0;
+}
+body{  background: #ff9966;}
+header{  margin: 20px;}
+div.contenedor{
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 20px;
+  width: 500px;
+  height: 500px;
+  background: #ff8866;
+}
